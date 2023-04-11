@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @alessmi
-- 👀 I’m interested in ... Create things to help people.
-- 🌱 I’m currently learning ... Javascript, Python
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👀 I’m interested in create things to help people.
+- 🌱 I’m currently learning typescript.
 
 <!---
 alessmi/alessmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
