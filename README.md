@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alessmi
 - 👀 I’m interested in create things to help people.
-- 🌱 I’m currently learning typescript.
+- 🌱 I’m currently learning Nest JS, Graphql, Mongo, SQL, Postgresql.
 
 <!---
 alessmi/alessmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
