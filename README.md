@@ -21,3 +21,6 @@ Como mencione, me especializo en Mobile & Web Development. Pero se manejar:
  - PostgreSQL
  - Firebase
 
+# Redes
+
+ - [LinkedIn](https://www.linkedin.com/in/miguel-aless/)
